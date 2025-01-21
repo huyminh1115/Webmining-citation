@@ -1,0 +1,1 @@
+Use the docker container **nvcr.io/nvidia/dgl:24.11-py3** and install neccesary packages in the requirements.txt 
